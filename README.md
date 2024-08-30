@@ -6,7 +6,7 @@ Welcome to my portfolio! 🎨 I’m a passionate Frontend Developer dedicated to
 
 1. **Weather Calculator 🌦️**  
    A sleek and responsive weather application that provides real-time weather updates. Integrates multiple weather APIs for accurate data.  
-   [View Live Demo]https://weather-calculator-application.netlify.app/)  
+   [View Live Demo](https://weather-calculator-application.netlify.app/)  
   
 2. **Simple Calculator 🧮**  
    A minimalist calculator app built with HTML, CSS, and JavaScript. Perfect for performing basic arithmetic operations with a clean design.  
