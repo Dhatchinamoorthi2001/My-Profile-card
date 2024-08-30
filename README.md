@@ -4,7 +4,7 @@ Welcome to my portfolio! 🎨 I’m a passionate Frontend Developer dedicated to
 
 ## 🌐 Portfolio
 
-Check out my full portfolio [here](https://myportfoliocdm.netlify.app/).
+Check out my full portfolio [here](https://myportfolio-dhatchinamoorthi.netlify.app/).
 
 ## 🚀 Projects
 
